@@ -40,7 +40,7 @@ I enjoy solving problems where software meets the physical world.
 
 ## ♻️ Recylo — AI Waste Segregator
 
-<img src="media/Recylo.png" width="100%">
+<img src="media/Recylo.png" width="50%">
 
 AI-powered waste segregation ecosystem combining computer vision, edge AI and automation to classify waste in real time.
 
@@ -60,7 +60,7 @@ Built for the **Smart India Hackathon 2025 Grand Finale**.
 
 ## 🥤 IWM Reverse Vending Machine
 
-<img src="media/IWM.png" width="100%">
+<img src="media/IWM.png" width="50%">
 
 An intelligent reverse vending machine featuring multi-layer bottle validation, weight verification, sensor fusion and automated reward generation.
 
@@ -79,7 +79,7 @@ Designed for scalable sustainable recycling infrastructure.
 
 ## 🌊 OceanOS
 
-<img src="media/oceanos.png" width="100%">
+<img src="media/oceanos.png" width="50%">
 
 A marine intelligence platform exploring IoT, environmental monitoring, edge computing and real-time analytics for ocean sustainability.
 
@@ -96,7 +96,7 @@ A marine intelligence platform exploring IoT, environmental monitoring, edge com
 
 ## 👥 Only Friends
 
-<img src="media/onlyfriends.png" width="100%">
+<img src="media/onlyfriends.png" width="50%">
 
 A social productivity platform built during the **ZeroOne Chapter Hackathon**, encouraging collaborative goal tracking and accountability.
 
