@@ -20,7 +20,7 @@
 
 <br><br>
 
-<img src="media/achivements.png" width="100%">
+<img src="media/achievements.png" width="100%">
 
 </div>
 
