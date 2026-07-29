@@ -98,9 +98,9 @@ A marine intelligence platform exploring IoT, environmental monitoring, edge com
 
 <img src="media/onlyfriends.png" width="50%">
 
-A social productivity platform built during the **ZeroOne Hackathon**, encouraging collaborative goal tracking and accountability.
+A social productivity platform built during the **ZeroOne chapter 1 Hackathon**, encouraging collaborative goal tracking and accountability.
 
-🏅 **Runner-Up — ZeroOne Chapter**
+🏅 **Runner-Up — ZeroOne Chapter 1**
 
 **Tech**
 `React`
@@ -123,7 +123,7 @@ A social productivity platform built during the **ZeroOne Hackathon**, encouragi
 
 🥇 **JVTM National Exhibition Winner**
 
-🥈 **ZeroOne Chapter Hackathon Runner-Up**
+🥈 **ZeroOne Chapter 1 Hackathon Runner-Up**
 
 ---
 
